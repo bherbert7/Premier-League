@@ -1,0 +1,12 @@
+/* Add your CSS styles here to style the table */
+#league-table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+}
+
+#league-table th, #league-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
